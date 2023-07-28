@@ -56,9 +56,9 @@ Edit the .env file to provide the necessary configuration
 To start the Express server using npm, run the following command:
 
 ```bash
-- npm install
+- npm start
 or
-- yarn install
+- yarn start
 ```
 
 ### Config your SQL Database
