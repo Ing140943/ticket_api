@@ -62,4 +62,5 @@ or
 ```
 
 ### Config your SQL Database
-You can run sql command in db.sql by changing `your_schema` and `table_name`
+You can run sql command in db.sql by changing `your_schema`
+Note! Please name database named `tickets` as declare in sql file
