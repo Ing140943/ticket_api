@@ -1,6 +1,6 @@
 # Helpdesk support ticket management API
 
-A simple helpdesk support ticket management application.
+A simple helpdesk support ticket service management application.
 
 ## Getting Started
 
